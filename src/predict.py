@@ -1,4 +1,4 @@
-"""Submission entry point for 262-pay-later.
+"""Submission entry point for 262-credit-default-risk.
 
 The committee calls predict(df) once on the hidden test set. df has the test
 columns described in the README. Return 1 (will miss the payment) or 0 (will pay) per row,
